@@ -19,7 +19,7 @@ All functions are directly accessible. Access to the Application is not limited 
 
 The Application does not collect or transmit data.
 
-### Contact us
+### Contact me
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
 

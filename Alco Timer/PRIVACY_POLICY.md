@@ -1,12 +1,12 @@
-## PowerButton Torch - Flashlight: Privacy Policy
+## Alco Timer: Privacy Policy
 
-This privacy policy governs your use of the software application PowerButton Torch - Flashlight (“Application”) for mobile devices that was created by Aleksandr Balaev. The Application manage your flashlight using the phone's power button.
+This privacy policy governs your use of the software application Alco Timer (“Application”) for mobile devices that was created by Aleksandr Balaev. The Application calculate of the flow rate of alcohol, distillate (rectified) during moonshine brewing.
 
 ### Application content
 
 #### Permissions
 
-The Application requests permission to access the phone's camera only in order to turn on the device's flash. No pictures are taken, saved, or sent anywhere.
+The Application not requests any permissions.
 
 #### Advertising
 The Application does not contain ads
