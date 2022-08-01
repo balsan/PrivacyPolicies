@@ -6,22 +6,18 @@ This privacy policy governs your use of the software application Icon Torch - Fl
 
 #### Permissions
 
-The application requests permission to access the phone's camera only in order to turn on the device's flash. No pictures are taken, saved, or sent anywhere.
+The Application requests permission to access the phone's camera only in order to turn on the device's flash. No pictures are taken, saved, or sent anywhere.
 
 #### Advertising
-The application does not contain ads
+The Application does not contain ads
 
 #### App access
 
-All functions are directly accessible. Access to the application is not limited by credentials, subscription, location or other types of authentication.
+All functions are directly accessible. Access to the Application is not limited by credentials, subscription, location or other types of authentication.
 
 #### Data security
 
-The application does not collect or transmit data.
-
-
-
-
+The Application does not collect or transmit data.
 
 ### Contact us
 
