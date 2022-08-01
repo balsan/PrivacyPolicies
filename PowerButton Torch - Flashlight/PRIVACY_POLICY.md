@@ -1,6 +1,7 @@
 ## PowerButton Torch - Flashlight: Privacy Policy
 
 This privacy policy governs your use of the software application PowerButton Torch - Flashlight (“Application”) for mobile devices that was created by Aleksandr Balaev. The Application manage your flashlight using the phone's power button.
+
 ### Application content
 
 #### Permissions
