@@ -1,4 +1,4 @@
-## Icon Torch - Flashlight: Privacy Policy
+## Фонарик Иконка: Политика Конфиденциальности
 
 This privacy policy governs your use of the software application Icon Torch - Flashlight (“Application”) for mobile devices that was created by Aleksandr Balaev. The Application is the simplest LED flashlight without interface. Icon only.
 
