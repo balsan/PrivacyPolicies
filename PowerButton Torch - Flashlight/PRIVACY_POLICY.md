@@ -24,6 +24,6 @@ The Application does not collect or transmit data.
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
 
-Yours sincerely, Aleksandr Balaev.<br>
-Angarsk, Russia.<br>
+Yours sincerely, Aleksandr Balaev.  
+Angarsk, Russia.  
 balaevalexander@gmail.com
