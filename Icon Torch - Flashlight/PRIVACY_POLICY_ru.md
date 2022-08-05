@@ -1,29 +1,30 @@
-## Фонарик Иконка: Политика Конфиденциальности
+## Фонарик - иконка: Политика Конфиденциальности
 
-This privacy policy governs your use of the software application Icon Torch - Flashlight (“Application”) for mobile devices that was created by Aleksandr Balaev. The Application is the simplest LED flashlight without interface. Icon only.
+Настоящая политика конфиденциальности регулирует использование вами программного приложения Фонарик - иконка (“Приложение”) для мобильных устройств, созданного Александром Балаевым. Приложение представляет собой самый простой светодиодный фонарик без интерфейса. Только иконка.
 
-### Application content
+### Содержание приложения
 
-#### Permissions
+#### Разрешения
 
-The Application requests permission to access the phone's camera only in order to turn on the device's flash. No pictures are taken, saved, or sent anywhere.
+Приложение запрашивает разрешение на доступ к камере телефона только для того, чтобы включить вспышку устройства. Никакие фотографии не делаются, не сохраняются и никуда не отправляются.
 
-#### Advertising
-The Application does not contain ads
+#### Реклама
 
-#### App access
+Приложение не содержит рекламы
 
-All functions are directly accessible. Access to the Application is not limited by credentials, subscription, location or other types of authentication.
+#### Доступ к приложению
 
-#### Data security
+Все функции доступны напрямую. Доступ к Приложению не ограничен учетными данными, подпиской, местоположением или другими типами аутентификации.
 
-The Application does not collect or transmit data.
+#### Безопасность данных
 
-### Contact me
+Приложение не собирает и не передает данные.
 
-If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
+### Свяжитесь со мной
 
-Yours sincerely,
-Aleksandr Balaev.
-Angarsk, Russia.
+Если вы обнаружите какую-либо уязвимость в системе безопасности, которая была непреднамеренно вызвана мной, или у вас возникнут какие-либо вопросы относительно того, как Приложение защищает вашу частную жизнь, пожалуйста, отправьте мне электронное письмо, и я обязательно постараюсь исправить это / помочь вам.
+
+С уважением,
+Александр Балаев.
+Ангарск, Россия.
 balaevalexander@gmail.com
