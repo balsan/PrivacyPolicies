@@ -9,6 +9,7 @@ This privacy policy governs your use of the software application Icon Torch Pro 
 The Application requests permission to access the phone's camera only in order to turn on the device's flash. No pictures are taken, saved, or sent anywhere.
 
 #### Advertising
+
 The Application does not contain ads
 
 #### App access
@@ -23,7 +24,6 @@ The Application does not collect or transmit data.
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
 
-Yours sincerely,
-Aleksandr Balaev.
-Angarsk, Russia.
+Yours sincerely, Aleksandr Balaev.<br>
+Angarsk, Russia.<br>
 balaevalexander@gmail.com
